@@ -9,10 +9,10 @@ Usage
 
 Use `eselect clojure` as regular eselect module, Ex:
 
-	$ eselect vala list
-	Available valac versions:
+	$ eselect clojure list
+	Available clojure versions:
 	  [1]   clojure-1.10
-	$ sudo eselect vala set 1
+	$ sudo eselect clojure set 1
 
 Copying
 -------
